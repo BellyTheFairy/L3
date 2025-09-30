@@ -1,4 +1,3 @@
-
 print('Привет!', 'Введите Ваше имя и возраст')
 name = str(input())
 age = input()
